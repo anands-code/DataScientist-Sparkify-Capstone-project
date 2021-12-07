@@ -51,7 +51,7 @@ There is one exploratory notebook and html file of the notebook available here t
 
 ### Medium Blog Post
 
-The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@anand-blog/DataScientist-Sparkify-Capstone-project) explaining the technical details of my project. A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88.
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@anand-blog/datascientist-sparkify-capstone-project-10c2d66d9056)  explaining the technical details of my project. A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88.
 
 ### Licensing, Authors, Acknowledgements, etc.
 
