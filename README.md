@@ -5,9 +5,11 @@ Github Repo: https://github.com/anands-code/DataScientist-Sparkify-Capstone-proj
 
 **Files Contained in this Repo**
 
-* *Notebook Sparkify.ipynb*
+* *Sparkify.ipynb - Jupyter Notebook*
 
-* *Readme Readme.md* 
+* *Readme.md - Readme* 
+
+* *Spark capstone project.html - HTML file*
 
 ### Installations:
 
