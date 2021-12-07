@@ -5,23 +5,23 @@ Github Repo: https://github.com/anands-code/DataScientist-Sparkify-Capstone-proj
 
 **Files Contained in this Repo**
 
-*Notebook Sparkify.ipynb*
+* *Notebook Sparkify.ipynb*
 
-*Readme Readme.md* 
+* *Readme Readme.md* 
 
 ### Installations:
 
-*NumPy*
+* *NumPy*
 
-*Pandas*
+* *Pandas*
 
-*Seaborn*
+* *Seaborn*
 
-*Matplotlib*
+* *Matplotlib*
 
-*PySpark SQL*
+* *PySpark SQL*
 
-*PySpark ML*
+* *PySpark ML*
 
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks.
 
